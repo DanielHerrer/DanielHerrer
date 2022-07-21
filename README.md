@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DanielHerrer
-- 👀 I’m interested in visual art.
-- 🌱 I’m currently learning Java.
-- 🌎 I’m from Argentina.
+- 👋 Hi, my name is Herrera Daniel.
+- 👀 I’m interested in graphic design and illustration.
+- 🌱 I’m currently learning FrontEnd.
+- 🌎 I’m from Bs As, Argentina.
 - 📫 danielherrera2009@hotmail.es
