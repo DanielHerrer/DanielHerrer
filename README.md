@@ -1,5 +1,6 @@
-- 👋 Hi, my name is Herrera Daniel.
-- 👀 I’m interested in graphic design and illustration.
-- 🌱 I’m currently learning FrontEnd.
-- 🌎 I’m from Bs As, Argentina.
-- 📫 danielherrera2009@hotmail.es
+​ 👋 Hi, my name is Daniel.
+​ 🖌️ I’m interested on illustration, tattoo and graphic design.
+​ 👨‍💻 I'm currently learning HTML5, CSS3, JS, Ruby and Java. 
+​ 🌎 I’m from Bs As, Argentina.
+​ 🎓 High School Degree as Computer Systems Technician
+​ 📫 danielherrera2009@hotmail.es
