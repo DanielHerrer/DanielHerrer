@@ -3,4 +3,5 @@
 - 👨‍💻 I'm currently learning HTML5, CSS3, Python, Java and JavaScript. 
 - 🌎 I’m from Bs As, Argentina.
 - 🎓 High School Degree as Computer Systems Technician
-- 📫 danielherrera2009@hotmail.es
+- 📫 danielherrera2009@hotmail.es | danielhazzer2009@gmail.com
+- 📑 https://www.linkedin.com/in/danielfrancoherrera/
