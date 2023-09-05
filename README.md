@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQHbxdWu6VIw9A/profile-displaybackgroundimage-shrink_350_1400/0/1688482710543?e=1699488000&v=beta&t=3F9ag81V3yg7JMfAfleeHzSjVoxSvlP3i07rmUQtEtc">
 
-<img src="https://cdn.leonardo.ai/users/9996f6eb-4c46-4c68-8dc7-6212fb96c586/generations/88341a39-5e49-4c79-9e4f-20d71d240382/DreamShaper_32_pokemon_gengar_programming_making_code_in_a_com_2.jpg" height="300px" align="right">
+<img src="https://cdn.leonardo.ai/users/9996f6eb-4c46-4c68-8dc7-6212fb96c586/generations/88341a39-5e49-4c79-9e4f-20d71d240382/DreamShaper_32_pokemon_gengar_programming_making_code_in_a_com_2.jpg" height="315px" align="right">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
