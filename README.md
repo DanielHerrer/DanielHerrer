@@ -1,6 +1,6 @@
 <img src="https://cdnb.artstation.com/p/assets/images/images/066/838/547/large/daniel-f-herrera-plantilla-x-portada-liso.jpg?1693909278">
 
-<img src="https://cdn.leonardo.ai/users/9996f6eb-4c46-4c68-8dc7-6212fb96c586/generations/88341a39-5e49-4c79-9e4f-20d71d240382/DreamShaper_32_pokemon_gengar_programming_making_code_in_a_com_2.jpg" height="400px" align="right">
+<img src="https://i.imgflip.com/y804x.jpg?a470040" height="400px" align="right"></div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
