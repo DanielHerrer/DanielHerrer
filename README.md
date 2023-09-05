@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQHbxdWu6VIw9A/profile-displaybackgroundimage-shrink_350_1400/0/1688482710543?e=1699488000&v=beta&t=3F9ag81V3yg7JMfAfleeHzSjVoxSvlP3i07rmUQtEtc">
 
-<h1 align="center">Hello 👋, I'm Daniel, and my core expertise lies in Java. I'm from Argentina.</h1>
+<h1 align="center">Hello 👋, I'm Daniel, and my core expertise lies in Java. <br>I'm from Argentina. 🇦🇷</h1>
 <h3 align="center">I am passionate about technology and art, you could say I enjoy combining both.</h3>
 
 <h3 align="left">Connect with me:</h3>
