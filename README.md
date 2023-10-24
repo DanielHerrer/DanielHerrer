@@ -2,11 +2,11 @@
 
 <img src="https://i.imgflip.com/y804x.jpg?a470040" height="400px" align="right"></div>
 
-<h1 align="center">
+<span align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=hello+world,+im+daniel&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=hello+world,+im+daniel+=^)&center=true&size=25">
   </a>
-</h1>
+</span>
 
 <h2><img src="https://cdn130.picsart.com/300617594152211.png?to=crop&type=webp&r=310x310&q=50" width="35px" height="35px"> Tech Stack:</h2>
 
@@ -30,6 +30,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielfrancoherrera/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hazzer_sandy/)
 
+<br>
+<br>
 <br>
 
 <h2>📊 GitHub Stats:</h2>
