@@ -8,8 +8,6 @@
   </a>
 </h1>
 
-<h3>I embark on a quest for arcane code magic to enhance my spellbook. 🧙‍♂️</h3>
-
 <h2><img src="https://cdn130.picsart.com/300617594152211.png?to=crop&type=webp&r=310x310&q=50" width="35px" height="35px"> Tech Stack:</h2>
 
 <p align="left"> 
@@ -31,6 +29,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielhazzer2009@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielfrancoherrera/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hazzer_sandy/)
+
+<br>
 
 <h2>📊 GitHub Stats:</h2>
 <div align="center">
