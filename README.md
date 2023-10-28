@@ -37,7 +37,7 @@
 <h2>📊 GitHub Stats:</h2>
 <div align="center">
 <a href="https://github.com/DanielHerrer/DanielHerrer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHerrer&hide=papyrus&title_color=8123a7&text_color=fff&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" height="190px;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielHerrer&hide=papyrus&hide=shell&title_color=8123a7&text_color=fff&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" height="190px;"/>
 </a>
 <a href="https://github.com/DanielHerrer/DanielHerrer">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielHerrer&show_icons=true&line_height=27&count_private=true&title_color=8123a7&text_color=fff&icon_color=8123a7&bg_color=1d1f21" alt="Daniel GitHub Stats" height="190px;"/>
